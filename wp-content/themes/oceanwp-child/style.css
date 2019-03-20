@@ -1,0 +1,40 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://localhost/ image-magnific/wp-content/themes/oceanwp-child
+Description: OceanWP Child Theme
+Author:Marian Sloot
+Author URI: http://example.com/themes/
+Template: oceanwp
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, custom-background, custom-colors, custom-header, featured-image-header, featured-images, flexible-header, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, one-column, two-columns, right-sidebar
+Text Domain: oceanwp-child
+*/
+
+
+    .is-style-outline .wp-block-button__link {
+
+        background: transparent;
+            background-color: transparent;
+        border: 6px solid;
+
+    }
+
+/* .ast-flex.main-header-container {
+
+    flex-direction: column;
+
+}
+
+@media (min-width:768px) {
+    .ast-flex.main-header-container {
+
+        flex-direction: column;
+
+    }
+
+
+
+}*/
+
