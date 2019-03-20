@@ -1,0 +1,6 @@
+2019-02-21T15:48:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-includes\functions.php op de lijn 4921
+
+2019-02-21T15:48:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-admin\menu-header.php op de lijn 230
+
+2019-02-21T18:32:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-content\plugins\woocommerce\includes\admin\wc-admin-functions.php op de lijn 11
+

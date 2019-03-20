@@ -1,0 +1,116 @@
+/*
+Theme Name: Storefront Child
+Theme URI: https://localhost/ image-magnific/wp-content/themes/storefront-child
+Description: Storefront Child Theme
+Author:Marian Sloot
+Author URI: http://example.com/themes/
+Template: storefront
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, custom-background, custom-colors, custom-header, featured-image-header, featured-images, flexible-header, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, one-column, two-columns, right-sidebar
+Text Domain: storefront-child
+*/
+/* body.storefront-align-wide {
+    background-image: url(http://localhost:81/image-magnific/wp-content/uploads/Stad01Def.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+/*
+<link href="https://fonts.googleapis.com/css?family=Cantarell:400,400i,700,700i|Jura:300,400,500,600,700|Londrina+Solid:100,300,400,900|Medula+One|Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i|Righteous|Squada+One" rel="stylesheet">  */
+
+/* font-family: 'Righteous', cursive;
+
+font-family: 'Nunito', sans-serif;
+
+font-family: 'Cantarell', sans-serif;
+
+font-family: 'Jura', sans-serif;
+
+font-family: 'Londrina Solid', cursive;
+
+font-family: 'Medula One', cursive;
+
+font-family: 'Squada One', cursive; */
+
+
+/* .home .site-content {
+    background-image: url(http://localhost:81/image-magnific/wp-content/uploads/milklakecity-1600x1066.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+
+body, button, input, textarea {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+nav {
+    font-family: 'Londrina Solid', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Oswald', sans-serif;
+}
+h1, h2 {
+    text-align: center;
+}
+.site-header {
+    margin-bottom: 0;
+
+    /* background-color: #0b7fb2;
+    color: #fff; */
+
+}
+
+.site-header .widget_product_search {
+    display: none;
+}
+.storefront-secondary-navigation.woocommerce-active .site-header .secondary-navigation {
+    float: right;
+}
+.hentry .entry-content .wp-block-button, .editor-styles-wrapper .wp-block-button {
+    text-align: center;
+}
+.hentry .entry-content .wp-block-button.is-style-outline .wp-block-button__link {
+    border: 5px solid currentColor;
+}
+.site-header {
+    background: transparent;
+}
+.site-header .site-branding img {
+    max-width: 75px;
+    margin: 0 auto;
+}
+.woocommerce-active .site-header .site-branding {
+
+    width: 100%;
+}
+.home.blog .site-header, .home.page:not(.page-template-template-homepage) .site-header, .home.post-type-archive-product .site-header {
+
+    margin-bottom: 1em;
+
+}
+
+
+@media (min-width:768px) {
+
+    .home.blog .site-header, .home.page:not(.page-template-template-homepage) .site-header, .home.post-type-archive-product .site-header {
+        margin-bottom: 1em;
+    }
+
+    .site-header {
+        padding-top: 1.5em;
+        padding-bottom: 0;
+
+    }
+    .site-header .site-branding img {
+        max-width: 150px;
+        margin: 0 auto;
+    }
+    .site-branding {
+        margin-bottom: 0;
+    }
+
+}

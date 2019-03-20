@@ -1,0 +1,8 @@
+2019-02-20T08:41:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpCommentLogger.php op de lijn 6
+
+2019-02-20T08:41:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-exception.php op de lijn 10
+
+2019-02-20T08:41:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpCommentLogger.php op de lijn 6
+
+2019-02-20T10:43:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\image-magnific\wp-includes\Requests\Transport\cURL.php op de lijn 163
+
